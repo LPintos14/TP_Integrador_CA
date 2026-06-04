@@ -16,13 +16,6 @@ Proyecto de administración de sistemas Linux sobre máquina virtual Debian 12.
 </div>
 
 
-### ¿Qué corregí?
-1.  Quité el guion inicial que tenía mal (ej: cambié `#-descripción` por `#descripción`).
-2.  Ajusté el link de **Equipo** para que apunte al título completo "Equipo de Desarrollo" (`#equipo-de-desarrollo`).
-
-Ahora los links deberían llevarte suavemente a cada sección al hacer clic.
-
-
 ---
 
 ## 📝 Descripción
@@ -81,5 +74,5 @@ El script instalado en `/opt/scripts/backup_full.sh` permite generar copias de s
 ---
 
 <div align="center">
-© 2024 - Universidad de Palermo
+© 2026 - Universidad de Palermo
 </div>
