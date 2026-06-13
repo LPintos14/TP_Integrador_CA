@@ -11,7 +11,6 @@
 
 Proyecto de administración de sistemas Linux sobre máquina virtual Debian 12.
 
-[Descripción](#descripción) • [Características](#características) • [Equipo](#equipo-de-desarrollo) • [Script de Backup](#script-de-backup)
 
 </div>
 
@@ -65,11 +64,13 @@ El script instalado en `/opt/scripts/backup_full.sh` permite generar copias de s
 
 ## 👥 Equipo de Desarrollo
 
-| Integrante |
-| :--- |
-| **Agustina Esposito** |
-| **Jose Alvarez** |
-| **Lautaro Pintos** |
+
+| Integrante | Legajo |
+| :--- | :---: |
+| **Agustina Esposito** | 0141012 |
+| **Jose Alvarez** | 0163944 |
+| **Lautaro Pintos** | 0161873 |
+
 
 ---
 
